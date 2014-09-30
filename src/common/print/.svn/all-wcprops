@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/738/trunk/src/common/print
+END
+config.pri
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/87/trunk/src/common/print/config.pri
+END
+qtextdocumentextra.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/286/trunk/src/common/print/qtextdocumentextra.h
+END
+src.pri
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/286/trunk/src/common/print/src.pri
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/87/trunk/src/common/print/main.cpp
+END
+qprintereasy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/295/trunk/src/common/print/qprintereasy.cpp
+END
+qtextdocumentextra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/286/trunk/src/common/print/qtextdocumentextra.cpp
+END
+qprintereasy.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/286/trunk/src/common/print/qprintereasy.h
+END
+qprintereasy_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/87/trunk/src/common/print/qprintereasy_global.h
+END

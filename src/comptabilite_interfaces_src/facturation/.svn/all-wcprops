@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/756/trunk/src/comptabilite_interfaces_src/facturation
+END
+customModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/715/trunk/src/comptabilite_interfaces_src/facturation/customModel.cpp
+END
+facturationIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/744/trunk/src/comptabilite_interfaces_src/facturation/facturationIO.h
+END
+facturation.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/731/trunk/src/comptabilite_interfaces_src/facturation/facturation.pro
+END
+facturation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/756/trunk/src/comptabilite_interfaces_src/facturation/facturation.cpp
+END
+facturemodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/741/trunk/src/comptabilite_interfaces_src/facturation/facturemodel.h
+END
+customModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/715/trunk/src/comptabilite_interfaces_src/facturation/customModel.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/731/trunk/src/comptabilite_interfaces_src/facturation/main.cpp
+END
+facturation.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/756/trunk/src/comptabilite_interfaces_src/facturation/facturation.h
+END
+facturationIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/754/trunk/src/comptabilite_interfaces_src/facturation/facturationIO.cpp
+END
+facturation.pri
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/731/trunk/src/comptabilite_interfaces_src/facturation/facturation.pri
+END
+facturation.ui
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/741/trunk/src/comptabilite_interfaces_src/facturation/facturation.ui
+END
+facturemodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/743/trunk/src/comptabilite_interfaces_src/facturation/facturemodel.cpp
+END

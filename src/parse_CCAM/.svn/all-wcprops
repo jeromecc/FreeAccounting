@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/775/trunk/src/parse_CCAM
+END
+parseCCAM.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/775/trunk/src/parse_CCAM/parseCCAM.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/651/trunk/src/parse_CCAM/main.cpp
+END
+parse_CCAM.pri
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/651/trunk/src/parse_CCAM/parse_CCAM.pri
+END
+findFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/775/trunk/src/parse_CCAM/findFile.h
+END
+parse.ui
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/651/trunk/src/parse_CCAM/parse.ui
+END
+ccambasethread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/733/trunk/src/parse_CCAM/ccambasethread.cpp
+END
+ccambasethread.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/733/trunk/src/parse_CCAM/ccambasethread.h
+END
+parseconstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/658/trunk/src/parse_CCAM/parseconstants.h
+END
+sql_file
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/651/trunk/src/parse_CCAM/sql_file
+END
+parseCCAM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/775/trunk/src/parse_CCAM/parseCCAM.cpp
+END
+findFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/775/trunk/src/parse_CCAM/findFile.cpp
+END

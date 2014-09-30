@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/776/trunk/src/comptabilite_interfaces_src/parametrages
+END
+parametrages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/776/trunk/src/comptabilite_interfaces_src/parametrages/parametrages.cpp
+END
+parametrages.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/775/trunk/src/comptabilite_interfaces_src/parametrages/parametrages.h
+END
+ParametragesDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/775/trunk/src/comptabilite_interfaces_src/parametrages/ParametragesDialog.ui
+END

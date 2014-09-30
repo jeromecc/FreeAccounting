@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/773/trunk/src/setup
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/78/trunk/src/setup/main.cpp
+END
+page1.ui
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1/trunk/src/setup/page1.ui
+END
+wiz1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/773/trunk/src/setup/wiz1.cpp
+END
+page1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/773/trunk/src/setup/page1.cpp
+END
+setup.pro
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/src/setup/setup.pro
+END
+wiz1.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/773/trunk/src/setup/wiz1.h
+END
+page1.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/773/trunk/src/setup/page1.h
+END

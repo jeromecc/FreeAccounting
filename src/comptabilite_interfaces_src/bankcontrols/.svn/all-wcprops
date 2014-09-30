@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/677/trunk/src/comptabilite_interfaces_src/bankcontrols
+END
+inputswidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/676/trunk/src/comptabilite_interfaces_src/bankcontrols/inputswidget.h
+END
+inputs.ui
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/676/trunk/src/comptabilite_interfaces_src/bankcontrols/inputs.ui
+END
+bankcontrol.pri
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/674/trunk/src/comptabilite_interfaces_src/bankcontrols/bankcontrol.pri
+END
+inputswidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/677/trunk/src/comptabilite_interfaces_src/bankcontrols/inputswidget.cpp
+END

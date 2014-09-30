@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/648/trunk/src/recettestriees/etatdesdus
+END
+etatdesdus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/648/trunk/src/recettestriees/etatdesdus/etatdesdus.cpp
+END
+tableaudialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1/trunk/src/recettestriees/etatdesdus/tableaudialog.ui
+END
+etatdesdus.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/501/trunk/src/recettestriees/etatdesdus/etatdesdus.h
+END
+tableau.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/510/trunk/src/recettestriees/etatdesdus/tableau.cpp
+END
+etatdesdusdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1/trunk/src/recettestriees/etatdesdus/etatdesdusdialog.ui
+END
+tableau.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/510/trunk/src/recettestriees/etatdesdus/tableau.h
+END
+etatdesdus.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112/trunk/src/recettestriees/etatdesdus/etatdesdus.pro
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/144/trunk/src/recettestriees/etatdesdus/main.cpp
+END

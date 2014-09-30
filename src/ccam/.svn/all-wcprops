@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/757/trunk/src/ccam
+END
+ccam.pri
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/741/trunk/src/ccam/ccam.pri
+END
+receipstools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/757/trunk/src/ccam/receipstools.cpp
+END
+findreceiptsvalues.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/753/trunk/src/ccam/findreceiptsvalues.cpp
+END
+tools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/721/trunk/src/ccam/tools.cpp
+END
+receipstools.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/757/trunk/src/ccam/receipstools.h
+END
+findvaluesgui.ui
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/654/trunk/src/ccam/findvaluesgui.ui
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/654/trunk/src/ccam/constants.h
+END
+findreceiptsvalues.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/734/trunk/src/ccam/findreceiptsvalues.h
+END
+tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/721/trunk/src/ccam/tools.h
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/673/trunk/src/comptabilite_interfaces_src/bank
+END
+bankMainWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/639/trunk/src/comptabilite_interfaces_src/bank/bankMainWindow.cpp
+END
+checkdelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/639/trunk/src/comptabilite_interfaces_src/bank/checkdelegate.cpp
+END
+movementschecking.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/639/trunk/src/comptabilite_interfaces_src/bank/movementschecking.cpp
+END
+validDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/598/trunk/src/comptabilite_interfaces_src/bank/validDialog.ui
+END
+receiptschecking.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/639/trunk/src/comptabilite_interfaces_src/bank/receiptschecking.cpp
+END
+deposit.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/673/trunk/src/comptabilite_interfaces_src/bank/deposit.h
+END
+bankMainWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/639/trunk/src/comptabilite_interfaces_src/bank/bankMainWindow.h
+END
+checkdelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/639/trunk/src/comptabilite_interfaces_src/bank/checkdelegate.h
+END
+movementschecking.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/639/trunk/src/comptabilite_interfaces_src/bank/movementschecking.h
+END
+validdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/648/trunk/src/comptabilite_interfaces_src/bank/validdialog.cpp
+END
+receiptschecking.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/639/trunk/src/comptabilite_interfaces_src/bank/receiptschecking.h
+END
+bank.pri
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/639/trunk/src/comptabilite_interfaces_src/bank/bank.pri
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/562/trunk/src/comptabilite_interfaces_src/bank/main.cpp
+END
+validdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/599/trunk/src/comptabilite_interfaces_src/bank/validdialog.h
+END
+controlbalance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/601/trunk/src/comptabilite_interfaces_src/bank/controlbalance.cpp
+END
+bank.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/576/trunk/src/comptabilite_interfaces_src/bank/bank.pro
+END
+controlbalance.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/598/trunk/src/comptabilite_interfaces_src/bank/controlbalance.h
+END
+balancedialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/566/trunk/src/comptabilite_interfaces_src/bank/balancedialog.ui
+END
+mainWindowBank.ui
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/639/trunk/src/comptabilite_interfaces_src/bank/mainWindowBank.ui
+END
+movementsChecking.ui
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/639/trunk/src/comptabilite_interfaces_src/bank/movementsChecking.ui
+END
+receiptsChecking.ui
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/639/trunk/src/comptabilite_interfaces_src/bank/receiptsChecking.ui
+END
+depositwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/586/trunk/src/comptabilite_interfaces_src/bank/depositwidget.ui
+END
+deposit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/601/trunk/src/comptabilite_interfaces_src/bank/deposit.cpp
+END

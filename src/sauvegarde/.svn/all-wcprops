@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/785/trunk/src/sauvegarde
+END
+recherche_mysqldump.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/778/trunk/src/sauvegarde/recherche_mysqldump.h
+END
+sauvedialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/779/trunk/src/sauvegarde/sauvedialog.h
+END
+recup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/778/trunk/src/sauvegarde/recup.cpp
+END
+recup.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/778/trunk/src/sauvegarde/recup.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/778/trunk/src/sauvegarde/main.cpp
+END
+findFileSauve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/778/trunk/src/sauvegarde/findFileSauve.cpp
+END
+connexions.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/778/trunk/src/sauvegarde/connexions.h
+END
+findFileSauve.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/778/trunk/src/sauvegarde/findFileSauve.h
+END
+RecupDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/778/trunk/src/sauvegarde/RecupDialog.ui
+END
+connect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/778/trunk/src/sauvegarde/connect.cpp
+END
+recherche_mysqldump.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/778/trunk/src/sauvegarde/recherche_mysqldump.ui
+END
+sauvegarde.pri
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/778/trunk/src/sauvegarde/sauvegarde.pri
+END
+sauvedialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/778/trunk/src/sauvegarde/sauvedialog.ui
+END
+connect.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/778/trunk/src/sauvegarde/connect.h
+END
+sauvedialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/785/trunk/src/sauvegarde/sauvedialog.cpp
+END
+recherche_mysqldump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/778/trunk/src/sauvegarde/recherche_mysqldump.cpp
+END
+sauvegarde.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/778/trunk/src/sauvegarde/sauvegarde.pro
+END
+ConnectDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/778/trunk/src/sauvegarde/ConnectDialog.ui
+END

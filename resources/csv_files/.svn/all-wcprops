@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/729/trunk/resources/csv_files
+END
+actes_disponibles.csv
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/518/trunk/resources/csv_files/actes_disponibles.csv
+END
+mouvements_disponibles.csv
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/276/trunk/resources/csv_files/mouvements_disponibles.csv
+END
+utilisateurs.csv
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/172/trunk/resources/csv_files/utilisateurs.csv
+END
+forfaits.csv
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/518/trunk/resources/csv_files/forfaits.csv
+END
+pourcentages.csv
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/172/trunk/resources/csv_files/pourcentages.csv
+END
+indemnites_deplacement.csv
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/360/trunk/resources/csv_files/indemnites_deplacement.csv
+END
+concordance_mov_impots
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/683/trunk/resources/csv_files/concordance_mov_impots
+END
+comptes_bancaires.csv
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/172/trunk/resources/csv_files/comptes_bancaires.csv
+END
+thesaurus.csv
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/317/trunk/resources/csv_files/thesaurus.csv
+END

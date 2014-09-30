@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/420/trunk/resources/sql
+END
+dump_Paiements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/13/trunk/resources/sql/dump_Paiements.sql
+END
+CCAMTest_simple.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/398/trunk/resources/sql/CCAMTest_simple.sql
+END
+Dump_ActesDisponible.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/13/trunk/resources/sql/Dump_ActesDisponible.sql
+END
+dump_mouvements_disponibles.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/420/trunk/resources/sql/dump_mouvements_disponibles.sql
+END
+dump_pourcentages.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13/trunk/resources/sql/dump_pourcentages.sql
+END
+CCAMTest_sqlite.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/398/trunk/resources/sql/CCAMTest_sqlite.sql
+END
+CCAMTest_sqlite2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/398/trunk/resources/sql/CCAMTest_sqlite2.sql
+END

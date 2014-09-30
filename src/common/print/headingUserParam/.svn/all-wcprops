@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/738/trunk/src/common/print/headingUserParam
+END
+headingParam.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/701/trunk/src/common/print/headingUserParam/headingParam.h
+END
+headingParamDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/701/trunk/src/common/print/headingUserParam/headingParamDialog.ui
+END
+headingParam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/738/trunk/src/common/print/headingUserParam/headingParam.cpp
+END

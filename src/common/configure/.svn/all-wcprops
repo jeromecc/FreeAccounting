@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/777/trunk/src/common/configure
+END
+rapport.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/64/trunk/src/common/configure/rapport.h
+END
+modifutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/595/trunk/src/common/configure/modifutil.cpp
+END
+PratIdDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/385/trunk/src/common/configure/PratIdDialog.ui
+END
+pourcentages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/64/trunk/src/common/configure/pourcentages.cpp
+END
+tools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/744/trunk/src/common/configure/tools.cpp
+END
+delegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/754/trunk/src/common/configure/delegate.cpp
+END
+comptatorapidcompta.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/752/trunk/src/common/configure/comptatorapidcompta.cpp
+END
+payeursdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/709/trunk/src/common/configure/payeursdialog.h
+END
+utilisateur.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/628/trunk/src/common/configure/utilisateur.h
+END
+passdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/625/trunk/src/common/configure/passdialog.ui
+END
+thesaurusWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/631/trunk/src/common/configure/thesaurusWidget.ui
+END
+rapport.ui
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/64/trunk/src/common/configure/rapport.ui
+END
+automatisme.ui
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/64/trunk/src/common/configure/automatisme.ui
+END
+mdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/752/trunk/src/common/configure/mdp.h
+END
+configdatas.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/777/trunk/src/common/configure/configdatas.h
+END
+rapport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/258/trunk/src/common/configure/rapport.cpp
+END
+help.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/474/trunk/src/common/configure/help.cpp
+END
+pratid.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/385/trunk/src/common/configure/pratid.h
+END
+parametredialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/190/trunk/src/common/configure/parametredialog.ui
+END
+passdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/625/trunk/src/common/configure/passdialog.h
+END
+iotools.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/753/trunk/src/common/configure/iotools.h
+END
+diversblob.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/713/trunk/src/common/configure/diversblob.h
+END
+modifutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/595/trunk/src/common/configure/modifutil.h
+END
+nameindex.ui
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/741/trunk/src/common/configure/nameindex.ui
+END
+comptatorapidcompta.ui
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/702/trunk/src/common/configure/comptatorapidcompta.ui
+END
+tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/744/trunk/src/common/configure/tools.h
+END
+pourcentagesdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/src/common/configure/pourcentagesdialog.ui
+END
+vision.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/710/trunk/src/common/configure/vision.h
+END
+sitesdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/721/trunk/src/common/configure/sitesdialog.h
+END
+delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/743/trunk/src/common/configure/delegate.h
+END
+comptatorapidcompta.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/702/trunk/src/common/configure/comptatorapidcompta.h
+END
+pratid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/701/trunk/src/common/configure/pratid.cpp
+END
+modifUtil.ui
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/64/trunk/src/common/configure/modifUtil.ui
+END
+configmedintuxini.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/754/trunk/src/common/configure/configmedintuxini.h
+END
+automatisme.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/179/trunk/src/common/configure/automatisme.cpp
+END
+configure.pri
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/775/trunk/src/common/configure/configure.pri
+END
+help.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/459/trunk/src/common/configure/help.h
+END
+actesdispo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/733/trunk/src/common/configure/actesdispo.cpp
+END
+parametredialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/627/trunk/src/common/configure/parametredialog.cpp
+END
+vision.ui
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/710/trunk/src/common/configure/vision.ui
+END
+sitesdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/712/trunk/src/common/configure/sitesdialog.ui
+END
+payeursdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/709/trunk/src/common/configure/payeursdialog.ui
+END
+helpForm.ui
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/460/trunk/src/common/configure/helpForm.ui
+END
+sitesdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/721/trunk/src/common/configure/sitesdialog.cpp
+END
+vision.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/710/trunk/src/common/configure/vision.cpp
+END
+nameindex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/741/trunk/src/common/configure/nameindex.cpp
+END
+tokens.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/713/trunk/src/common/configure/tokens.h
+END
+actesdispodialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/725/trunk/src/common/configure/actesdispodialog.ui
+END
+configmedintuxini.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/753/trunk/src/common/configure/configmedintuxini.ui
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/625/trunk/src/common/configure/util.h
+END
+configmedintuxini.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/754/trunk/src/common/configure/configmedintuxini.cpp
+END
+thesaurus.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/554/trunk/src/common/configure/thesaurus.h
+END
+automatisme.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/64/trunk/src/common/configure/automatisme.h
+END
+actesdispo.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/724/trunk/src/common/configure/actesdispo.h
+END
+tokens.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/713/trunk/src/common/configure/tokens.cpp
+END
+configwidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/777/trunk/src/common/configure/configwidget.ui
+END
+pourcentages.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/64/trunk/src/common/configure/pourcentages.h
+END
+parametredialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/64/trunk/src/common/configure/parametredialog.h
+END
+payeursdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/710/trunk/src/common/configure/payeursdialog.cpp
+END
+utilisateur.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/701/trunk/src/common/configure/utilisateur.cpp
+END
+nameindex.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/741/trunk/src/common/configure/nameindex.h
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/625/trunk/src/common/configure/util.cpp
+END
+mdp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/752/trunk/src/common/configure/mdp.cpp
+END
+configdatas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/777/trunk/src/common/configure/configdatas.cpp
+END
+thesaurus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/631/trunk/src/common/configure/thesaurus.cpp
+END
+utilisateurdialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/624/trunk/src/common/configure/utilisateurdialog.ui
+END
+passdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/625/trunk/src/common/configure/passdialog.cpp
+END
+iotools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/754/trunk/src/common/configure/iotools.cpp
+END
+MdpDialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/752/trunk/src/common/configure/MdpDialog.ui
+END

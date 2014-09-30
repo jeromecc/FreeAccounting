@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/787/trunk/src/common
+END
+core.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/624/trunk/src/common/core.h
+END
+databasemanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/772/trunk/src/common/databasemanager.cpp
+END
+settings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/773/trunk/src/common/settings.cpp
+END
+common.pri
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/741/trunk/src/common/common.pri
+END
+position.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/328/trunk/src/common/position.cpp
+END
+databasemanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/749/trunk/src/common/databasemanager.h
+END
+settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/768/trunk/src/common/settings.h
+END
+icore.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/624/trunk/src/common/icore.h
+END
+commandlineparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/772/trunk/src/common/commandlineparser.h
+END
+position.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/530/trunk/src/common/position.h
+END
+xmlparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/772/trunk/src/common/xmlparser.cpp
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/746/trunk/src/common/test.cpp
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/781/trunk/src/common/constants.h
+END
+xmlparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/763/trunk/src/common/xmlparser.h
+END
+test.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/730/trunk/src/common/test.h
+END
+tablesdiagrams.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/787/trunk/src/common/tablesdiagrams.h
+END
+core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/624/trunk/src/common/core.cpp
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/730/trunk/src/common/version.h
+END

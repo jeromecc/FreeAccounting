@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/768/trunk/src/common/configure/medintux
+END
+connexion_medintux.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/768/trunk/src/common/configure/medintux/connexion_medintux.h
+END
+connexion_medintux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/768/trunk/src/common/configure/medintux/connexion_medintux.cpp
+END
+constants_medintux.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/768/trunk/src/common/configure/medintux/constants_medintux.h
+END

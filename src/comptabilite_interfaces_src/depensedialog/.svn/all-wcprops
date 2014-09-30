@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/781/trunk/src/comptabilite_interfaces_src/depensedialog
+END
+depensedialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/781/trunk/src/comptabilite_interfaces_src/depensedialog/depensedialog.cpp
+END
+depensetools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/781/trunk/src/comptabilite_interfaces_src/depensedialog/depensetools.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/763/trunk/src/comptabilite_interfaces_src/depensedialog/main.cpp
+END
+treeviewdelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/781/trunk/src/comptabilite_interfaces_src/depensedialog/treeviewdelegate.cpp
+END
+analysedialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/677/trunk/src/comptabilite_interfaces_src/depensedialog/analysedialog.ui
+END
+depensedialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/781/trunk/src/comptabilite_interfaces_src/depensedialog/depensedialog.h
+END
+depensetools.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/781/trunk/src/comptabilite_interfaces_src/depensedialog/depensetools.h
+END
+treeviewdelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/781/trunk/src/comptabilite_interfaces_src/depensedialog/treeviewdelegate.h
+END
+analyse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/677/trunk/src/comptabilite_interfaces_src/depensedialog/analyse.cpp
+END
+depensedialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/781/trunk/src/comptabilite_interfaces_src/depensedialog/depensedialog.ui
+END
+analyse.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/677/trunk/src/comptabilite_interfaces_src/depensedialog/analyse.h
+END
+depensedialog.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/704/trunk/src/comptabilite_interfaces_src/depensedialog/depensedialog.pro
+END

@@ -1,0 +1,35 @@
+ajouter à dépenses colonne montant total (par rapport à montant déclaré) ok
+ccam intégrer version 29
+ccam problème inadéquation code et description ok
+
+recettedialog : bouton unique ok
+recettedialog : fichier csv de données à inclure
+
+parse_ccam :
+ne permettre que le choix csv et pas new
+sauvegarder l'ancienne table ok
+truncate la table ccam ok
+
+modifierecettes:
+mise de coté de seances
+intégration des critères de recherche user et site
+simplification
+inclure site preferentiel
+
+modifier parametrages sites :
+inclure choix preferentiel dans config.ini ok
+ajout d'un site ok
+
+changer le nom de la base comptabilite ok
+créer blob pour seances et honoraires ok
+programme pour rapatrier anciennes bases ok
+
+ajouter champ identifiant prefectoral payeurs ok
+
+ajouter blobs
+
+centraliser les enums des tables
+
+class sur gestion des seances et du prix de journee
+
+ccam tool tips sur items

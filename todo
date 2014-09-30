@@ -1,0 +1,20 @@
+-- Eric --
+Compiler sous Mac
+Intégrer le projet au projet FMF
+
+-- PMD --
+Finir 2035
+Proposer first time
+Revoir installation de la base sur celle de medintux
+mettre en place numéro de version.
+mettre dans rapport de bug le config.ini
+
+A côté des modes de paiement et le reste, il y aurait la possibilité d'ajouter
+un commentaire dans une recette mais je ne vois pas comment faire ??? j'aimerais
+simplement ajouter lors d'un paiement par chèque le nom de la banque et le
+numéro du chèque ... cette possibilité serait sympa : sélectionner chèque
+puis choisir une banque dans un menu (les items de ce menu seraient ajoutés
+par l'utilisateur de la même manière qu'on enregistre un acte dans le thésaurus)
+puis ajouter le numéro du chèque et enfin enregistrer la recette .
+
+
